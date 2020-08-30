@@ -23,15 +23,16 @@ const Contact = () => {
 
   const formSubmit = (e) => {
     e.preventDefault();
-    alert(
-      `Name : ${data.fullname}. Mobile number : ${data.phone} Email : ${data.email} NameMessage: ${data.msg}`
-    );
-  };
+    alert("Backend Not Integrated Yet")
+      
+    }
+    
+  
 
   return (
     <>
       <div className="my-5">
-        <h1 className="text-center"> Contact US </h1>
+        <h1 className="text-center"> Contact me </h1>
       </div>
       <div className="container contact_div">
         <div className="row">

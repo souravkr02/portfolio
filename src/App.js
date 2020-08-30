@@ -8,6 +8,8 @@ import Navbar from './components/Navbar'
 import { Switch, Route, Redirect } from 'react-router-dom';
 import Projects from './components/Projects';
 import Footer from './components/Footer';
+import Resume from './components/Resume';
+
 
 const App = () => {
       return (
@@ -18,9 +20,11 @@ const App = () => {
           <Route exact path="/about" component={About}/>
           <Route exact path="/projects" component={Projects}/>
           <Route exact path="/contact" component={Contact}/>
+          <Route exact path="/resume" component={Resume}/>           
           <Redirect to="/" />          
         </Switch>
         <Footer />
+        
         
         
       </>

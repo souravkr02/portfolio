@@ -85,9 +85,9 @@
   text-align: right;
 }
 
-#header .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
-}
+/* #header .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both; 
+}*/
 
 @-webkit-keyframes up-down {
   0% {
@@ -176,7 +176,7 @@ li:hover {
 .column {
   display: flex;
   float: left;
-  flex: 10%;
+  flex: 7%;
   padding: 5px;
 }
 .column:hover{
