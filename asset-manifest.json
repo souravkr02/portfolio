@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.eb53ec1a.chunk.css",
-    "main.js": "/portfolio/static/js/main.f1046f38.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f1046f38.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.5b6800cf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5b6800cf.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a61f3710.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a61f3710.js.map",
     "static/css/2.75c4ecca.chunk.css": "/portfolio/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.944e67b8.chunk.js": "/portfolio/static/js/2.944e67b8.chunk.js",
-    "static/js/2.944e67b8.chunk.js.map": "/portfolio/static/js/2.944e67b8.chunk.js.map",
+    "static/js/2.e3eb485d.chunk.js": "/portfolio/static/js/2.e3eb485d.chunk.js",
+    "static/js/2.e3eb485d.chunk.js.map": "/portfolio/static/js/2.e3eb485d.chunk.js.map",
     "44b36838194242acdf7e.worker.js": "/portfolio/44b36838194242acdf7e.worker.js",
     "44b36838194242acdf7e.worker.js.LICENSE.txt": "/portfolio/44b36838194242acdf7e.worker.js.LICENSE.txt",
     "44b36838194242acdf7e.worker.js.map": "/portfolio/44b36838194242acdf7e.worker.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.af4dfdf7d5b81862907d6de05981e8db.js": "/portfolio/precache-manifest.af4dfdf7d5b81862907d6de05981e8db.js",
+    "precache-manifest.2b6fdc7c23c14bbbe68f57ba35400729.js": "/portfolio/precache-manifest.2b6fdc7c23c14bbbe68f57ba35400729.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/portfolio/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.eb53ec1a.chunk.css.map": "/portfolio/static/css/main.eb53ec1a.chunk.css.map",
-    "static/js/2.944e67b8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.944e67b8.chunk.js.LICENSE.txt",
+    "static/js/2.e3eb485d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e3eb485d.chunk.js.LICENSE.txt",
     "static/media/SouravResume.pdf": "/portfolio/static/media/SouravResume.873c1ec0.pdf",
     "static/media/aws.svg": "/portfolio/static/media/aws.bf07b30e.svg",
     "static/media/c.svg": "/portfolio/static/media/c.5a3866b5.svg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.a61f3710.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.944e67b8.chunk.js",
+    "static/js/2.e3eb485d.chunk.js",
     "static/css/main.eb53ec1a.chunk.css",
-    "static/js/main.f1046f38.chunk.js"
+    "static/js/main.5b6800cf.chunk.js"
   ]
 }
