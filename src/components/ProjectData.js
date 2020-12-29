@@ -5,7 +5,7 @@ const ProjectData = [
         title:"Express Weather App",
         content:"NodeJs | Heroku | HTML5 | CSS | JavaScript : December 2020",
         link:"https://github.com/souravkr02"
-        appLink:"https://express-weather-srv.herokuapp.com"
+        
         
     },
     {
@@ -13,7 +13,7 @@ const ProjectData = [
         title:"Portfolio",
         content:"ReactJs | HTML5 | CSS | BootStrap : July 2020",
         link:"https://github.com/souravkr02"
-        appLink:"https://souravkr02.github.io/portfolio"
+        
         
     },
     {
