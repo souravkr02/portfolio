@@ -11,7 +11,7 @@ const Card = (props) => {
                     <div className="card-body">
                         <h5 className="card-title font-weight-bold">{props.title}</h5>
                         <p className="card-text">{props.content}</p>
-                        <a href={props.vlink} target="_srv" className="btn btn-primary">Source Code</a>
+                        <a href={props.vlink} target="_srv" className="btn btn-primary">Source Code</a>                        
                     </div>
                 </div>
             </div>
